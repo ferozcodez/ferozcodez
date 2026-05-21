@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Feroz Khan</h1>
 
-<!--
-**ferozcodez/ferozcodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full Stack Developer • Backend Engineer • Cloud Integrations
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,nestjs,mysql,postgres,docker,git,vscode,aws&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- Building scalable full-stack apps & APIs
+- Exploring AI integrations & system design
+- Clean UI + performant backend architecture
+- Cloud automation & developer tooling
+
+---
